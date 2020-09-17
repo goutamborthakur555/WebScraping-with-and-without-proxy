@@ -47,12 +47,12 @@ def download_images():
         print('Start downloading...')
     
         for i, imagelink in enumerate(imagelinks):
-            response_img = requests.get(imagelink)
+            response = requests.get(imagelink)
             
             # open each image link and save the file
             imagename = Image_Folder + '/' + data + str(i+1) + '.jpg'
             with open(imagename, 'wb') as file:
-                file.write(response_img.content)
+                file.write(response.content)
     
         print('Download Completed!')
 
