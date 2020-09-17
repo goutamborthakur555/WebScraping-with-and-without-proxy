@@ -21,7 +21,7 @@ def download_images():
     
     search_url = Google_Image + 'q=' + data #'q=' because its a query
     
-    api = ProxyCrawlAPI({'token': '_DOCiHKKF0Q0gefLFtNaQQ'}) #Enter your ProxyCrawl Javascript token, you will get this after registering in https://proxycrawl.com/ for trail and paid
+    api = ProxyCrawlAPI({'token': 'Enter your ProxyCrawl Javascript token'}) #Enter your ProxyCrawl Javascript token, you will get this after registering in https://proxycrawl.com/ for trail and paid
     
     response = api.get(search_url, {'scroll': 'true', 'scroll_interval': '60', 'ajax_wait': 'true'}) #Parameters of ProxyCrawl
     if response['status_code'] == 200: #status code received from Google Site
