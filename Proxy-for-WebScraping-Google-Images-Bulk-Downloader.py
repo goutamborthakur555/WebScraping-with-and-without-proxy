@@ -1,3 +1,4 @@
+# For explanation of this code, you can visit this video: https://www.youtube.com/watch?v=YEUbMnMqJG0
 import os
 import requests # pip install requests #to sent GET requests
 from bs4 import BeautifulSoup # pip install bs4 #to parse html(getting data out from html, xml or other markup languages)
