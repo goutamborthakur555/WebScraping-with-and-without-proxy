@@ -1,4 +1,4 @@
-File Names:
+Web Scraping File Names:
 
 1. WebScraping-Google-Images-Bulk-Downloader.py
 
