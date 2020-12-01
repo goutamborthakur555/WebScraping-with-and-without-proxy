@@ -105,7 +105,7 @@ try:
         def get_table_download_link(rest):
             val = to_excel(rest)
             b64 = base64.b64encode(val)
-            return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="Full Prediction File.xlsx">Download Scraped File</a>'
+            return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="Full Scraped File.xlsx">Download Scraped File</a>'
                 
         st.markdown(get_table_download_link(rest), unsafe_allow_html=True)
         
