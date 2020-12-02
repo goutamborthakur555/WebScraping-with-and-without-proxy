@@ -10,6 +10,6 @@ Above mentioned 2 code files will help you to download bulk images from Google w
 
 **3. Web Scraping App for Yelp** : Screenshots are below and YouTube Link for how to use it: 
 
-![1](https://user-images.githubusercontent.com/59662170/100862114-c2195900-34b8-11eb-8a70-2e54870be79b.jpg)
+![1](https://user-images.githubusercontent.com/59662170/100862767-98acfd00-34b9-11eb-99c1-592b71fe11cb.jpg)
 
-![2](https://user-images.githubusercontent.com/59662170/100862149-ce051b00-34b8-11eb-9bce-b6556fe8f388.jpg)
+![2](https://user-images.githubusercontent.com/59662170/100862806-a2cefb80-34b9-11eb-842b-ee711fa3795a.jpg)
