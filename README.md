@@ -8,7 +8,7 @@
 
 Above mentioned 2 code files will help you to download bulk images from Google with and without proxy for creating image dataset to train your Data Science models.
 
-**3. Web Scraping App for Yelp** : Screenshots are below and YouTube Link for how to use it: 
+**3. Web Scraping App for Yelp** : Screenshots are below and YouTube Link for how to use it: https://www.youtube.com/watch?v=hKpER1diAsY&list=PLtwlLFvHCqMAIyyApEh_-FUDI3aOv41fz&index=6
 
 ![1](https://user-images.githubusercontent.com/59662170/100862767-98acfd00-34b9-11eb-99c1-592b71fe11cb.jpg)
 
